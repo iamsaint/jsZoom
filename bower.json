@@ -1,0 +1,25 @@
+{
+  "name": "jsZoom",
+  "version": "1.0.0",
+  "homepage": "https://github.com/iamsaint/jsZoom",
+  "authors": [
+    "Saint <iamsaint@yandex.ru>"
+  ],
+  "description": "zoom images on hover",
+  "main": "jsZoom.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "image",
+    "zoom"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
